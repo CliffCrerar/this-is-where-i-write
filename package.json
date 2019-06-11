@@ -1,24 +1,26 @@
 {
-  "name": "my-this-is-where-i-write",
-  "version": "0.0.5",
-  "description": "This is where I write stuff",
-  "main": "index.js",
-  "scripts": {
-    "test": "test"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/CliffCrerar/this-is-where-i-write.git"
-  },
-  "keywords": [
-    "Docs",
-    "for",
-    "days"
-  ],
-  "author": "Cliff Crerar",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/CliffCrerar/this-is-where-i-write/issues"
-  },
-  "homepage": "https://github.com/CliffCrerar/this-is-where-i-write#readme"
+    "name": "my-this-is-where-i-write",
+    "version": "0.0.5",
+    "description": "This is where I write stuff",
+    "main": "index.js",
+    "scripts": {
+        "dev": "docz dev",
+        "build": "docz build",
+        "now-build": "yarn build"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/CliffCrerar/this-is-where-i-write.git"
+    },
+    "keywords": [
+        "Docs",
+        "for",
+        "days"
+    ],
+    "author": "Cliff Crerar",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/CliffCrerar/this-is-where-i-write/issues"
+    },
+    "homepage": "https://github.com/CliffCrerar/this-is-where-i-write#readme"
 }
