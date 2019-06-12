@@ -22,5 +22,10 @@
     "bugs": {
         "url": "https://github.com/CliffCrerar/this-is-where-i-write/issues"
     },
-    "homepage": "https://github.com/CliffCrerar/this-is-where-i-write#readme"
+    "homepage": "https://github.com/CliffCrerar/this-is-where-i-write#readme",
+    "dependencies": {},
+    "devDependencies": {
+        "docz": "^1.2.0",
+        "docz-theme-default": "^1.2.0"
+    }
 }
